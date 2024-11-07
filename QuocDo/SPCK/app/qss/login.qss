@@ -1,0 +1,7 @@
+QLable  {
+    color : black;
+
+}
+QMainWindow  {
+    background-color : 01497c;
+}
